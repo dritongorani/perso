@@ -15,14 +15,14 @@ Built with Python and Streamlit – perfect for small businesses, recruiters, ma
 
 ### 🚀 Live Demo
 
-👉 Try it now: [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+👉 Try it now: https://flld7yh3reitbudt8vty5x.streamlit.app/
 
 ---
 
 ### 📦 Installation (For local use)
 
 ```bash
-git clone https://github.com/yourusername/email-extractor-app.git
-cd email-extractor-app
+git clone https://github.com/dritongorani/perso.git
+cd project_extract_mail
 pip install -r requirements.txt
 streamlit run email-extractor-app.py
